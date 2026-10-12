@@ -1,0 +1,8 @@
+node_modules
+.nuxt
+.output
+playwright-report
+test-results
+package-lock.json
+public/*.svg
+public/*.png
